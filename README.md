@@ -1,4 +1,4 @@
-# GitHub User Search
+# GitHub User Search Project
 
 ## Install the Project
 npm i
